@@ -1,0 +1,10 @@
+openai
+python-dotenv
+# For Web scraping
+beautifulsoup4
+lxml
+requests
+uvicorn
+fastapi
+guardrails-ai
+mcp[cli]
